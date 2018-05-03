@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\13644\.android\build-cache\6804186e41cb69fc79ab2d27dce9e85793408d8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\classes_1b533cb42f42bfe1c4df56a05193a5d0c98092be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13644\.android\build-cache\10e6f9ecbcc54ae343d21446f6827c5042350e10\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c2916a7f86a4eb23da577f42b62d75595fb139c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\as\app_serial\app\app\libs\pl2303multilib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c64da52399966ad8f1201efe5de024b03fe5f952">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\pl2303multilib_5291cbc9794e1c91138a78d64e92e9dd76a2ffea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_31d5142545527bb873f09eebc7c2ec723b512a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\as\app_serial\app\app\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\jxl_f97cc375f26b39f5b0ce22d1506ebc6a3a48dbdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13644\.android\build-cache\d743c2c17583cfcd157ce71377a35e02f07bf481\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\classes_169b6bd24f4e352f0e433cabdad7ada5991adf03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13644\.android\build-cache\ae36f4ca093941b5e21ca6de57367cf2f17a4831\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\classes_c5eee9b445a1a3cae4660574771e4fb15558635c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\13644\.android\build-cache\10e6f9ecbcc54ae343d21446f6827c5042350e10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\workspace\as\app_serial\app\app\build\intermediates\pre-dexed\debug\classes_1c180b4556be4229ade5244005dffabd25af77a1.jar" />
+    </item>
+
+</items>

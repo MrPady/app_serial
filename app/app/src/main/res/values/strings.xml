@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">InfraredCertification</string>
+    <string name="send">发送</string>
+    <string name="reset">清空接收区</string>
+    <string name="getEsamSer">00B0990108</string>
+    <string name="getChipState">00B0920001</string>
+    <string name="getRest">00B09A0004</string>
+    <string name="getRand">0084000004</string>
+    <string name="applyPower">E90017007F0011223344556677AA001122330010FFFC00112233FFE6</string>
+    <string name="updateChip">00D692000101</string>
+    <string name="updateUse">04D69A0014</string>
+    <string name="getRand1">0084000008</string>
+    <string name="getAddress">FEFEFEFE68AAAAAAAAAAAA681300DF16</string>
+    <string name="query" translatable="false">FEFEFEFE68A0A1A2A3A4A5680310078003FF888888880011223344556677FF16</string>
+    <string name="sendTableNumber1">80FA000110A7010011223344550000001122334455</string>
+    <string name="sendRand1">80FA0000080011223344556677</string>
+    <string name="getEncData">00C0000008</string>
+    <string name="sendTableNumber2">80FA0002080000001122334455</string>
+    <string name="sendRand2">80FA0000080011223344556677</string>
+    <string name="IC">FEFEFEFE68A0A1A2A3A4A5680310070003FF888888880011223344556677FF16</string>
+    <string name="P_sendTableNumber">80FA0003080000001122334455</string>
+    <string name="P_sendRand1">80FA0000080011223344556677</string>
+    <string name="P_sendSer">80FA0004080011223344556677</string>
+    <string name="getRand2">80FA0000080011223344556677</string>
+    <string name="menu_apply">权限申请</string>
+    <string name="menu_IC">红外认证</string>
+    <string name="menu_nor">普通查询</string>
+    <string name="title_activity_apply">ApplyActivity</string>
+    <string-array name="banrate">
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>14400</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>56000</item>
+        <item>57600</item>
+        <item>115200</item>
+    </string-array>
+    <string-array name="nBits">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="tf">
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="nEvent">
+        <item>N</item>
+        <item>O</item>
+        <item>E</item>
+    </string-array>
+    <string-array name="nStop">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+    </string-array>
+    <string name="back">&lt;返回</string>
+</resources>

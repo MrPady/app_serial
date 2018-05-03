@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\as\\app_serial\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\workspace\\as\\app_serial\\app\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\as\\app_serial\\app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\title_bar.xml",
+        "source": "E:\\workspace\\as\\app_serial\\app\\app\\src\\main\\res\\menu\\title_bar.xml"
+    }
+]
